@@ -13,9 +13,10 @@ Template:       oceanwp
   
   body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: burlywood;
+    color: beige;
+    background-color: rgb(195, 207, 255);
   }
 
-  header{
+  header {
     background-color:rgb(195, 207, 255);
   }

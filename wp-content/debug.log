@@ -3,3 +3,4 @@
 [22-Apr-2025 08:28:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /workspaces/UX221-Lab7/.wordpress/wp-content/themes/pink/functions.php on line 19
 [22-Apr-2025 08:28:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /workspaces/UX221-Lab7/.wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 367
 [22-Apr-2025 08:28:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /workspaces/UX221-Lab7/.wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[22-Apr-2025 13:13:40 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 16384 bytes) in /workspaces/UX221-Lab7/.wordpress/wp-includes/class-wp-dependencies.php on line 205

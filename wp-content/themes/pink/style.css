@@ -8,10 +8,14 @@ Template:       oceanwp
 */
 
 :root {
-  
+
   }
   
   body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: burlywood;
+  }
+
+  header{
+    background-color:rgb(195, 207, 255);
   }

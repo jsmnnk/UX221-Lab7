@@ -7,6 +7,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/house-cleaning-help/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/dog-walking-or-pet-sitting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tutoring-for-first-year-courses/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/furniture-assembly/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/yard-work-snow-shoveling/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>

@@ -1,0 +1,20 @@
+/*
+Theme Name:     pink
+Description:    pink theme
+Author:         jsmnn.k
+Template:       oceanwp
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+:root {
+    --main-font: 'Poppins', sans-serif;
+    --primary-color: #3b5998;
+    --secondary-color: #f1c40f;
+  }
+  
+  body {
+    font-family: var(--main-font);
+    color: var(--primary-color);
+  }
+  
